@@ -1,0 +1,1 @@
+// Configuração do i18n com react-i18next

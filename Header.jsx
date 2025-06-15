@@ -1,0 +1,1 @@
+// Componente Header com troca de idioma
