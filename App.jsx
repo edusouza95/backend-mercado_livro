@@ -1,1 +1,1 @@
-// Gerenciamento de rotas React
+// Código principal do React App

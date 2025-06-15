@@ -1,1 +1,1 @@
-// Configuração Axios para comunicação com backend
+// Configuração da API

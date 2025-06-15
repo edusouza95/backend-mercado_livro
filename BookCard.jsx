@@ -1,1 +1,1 @@
-// Card de livros
+// Componente de Card de Livro
