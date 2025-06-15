@@ -1,0 +1,1 @@
+// Serviço de upload e integração com Firebase
