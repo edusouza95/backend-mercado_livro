@@ -1,1 +1,1 @@
-// Middleware de autenticação JWT
+// Rotas de autenticação

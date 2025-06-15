@@ -1,1 +1,1 @@
-// Arquivo principal do servidor
+// Código principal do servidor Node.js
